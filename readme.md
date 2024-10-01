@@ -5,7 +5,7 @@ Preguntas
 
  1. Descargar e comprobar que unha imaxe está no teu equipo
 
-Para descargar a imaxe de Ubuntu, utilizamos o comando docker pull ubuntu. Para verificar que a imaxe se descargou correctamente, utilizamos docker images, que mostrará unha lista de todas as imaxes dispoñibles no teu equipo. ```bash docker pull ubuntu docker images .
+Para descargar a imaxe de Ubuntu, utilizamos o comando docker pull ubuntu. Para verificar que a imaxe se descargou correctamente, utilizamos docker images, que mostrará unha lista de todas as imaxes dispoñibles no teu equipo. bash docker pull ubuntu docker images .
 
 
 2. Crear un contenedor sen nome, queda arrincado?, cómo obtés o nome?
